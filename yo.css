@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+}
+.list_item{
+    padding-left: 20px;
+}
+.list_item a{
+    text-decoration: none;
+    color: #222222;
+}
+.fa-brands{
+    margin-left: 15px;
+}
+.btn0{
+    font-weight: 400;
+font-size: 13px;
+line-height: 14px;
+letter-spacing: 0.48px;
+color: #FFFFFF;
+padding: 11px 15px;
+background: #2F2F2F;
+border-radius: 20px;
+margin-left: 30px;
+}
+nav{
+    margin-top: 30px;
+}
+.good{
+    display: flex;
+    margin-left: 30px;
+}
+.icons{
+    margin-left: 100px;
+}
+.text{
+    margin-top: 250px;
+    font-weight: 400;
+font-size: 13px;
+color: #82CBAC;
+}
+.change{
+    font-weight: 600;
+font-size: 64px;
+color: #2F2F2F;
+
+}
+.textall{
+    padding-top: 25px;
+    font-weight: 400;
+font-size: 17px;
+color: #2F2F2F;
+}
+.postionimg{
+    margin-top: 110px;
+   position: relative;
+
+}
+
+.pingimg2{
+    position: absolute;
+     top: 100px;
+     left: 250px;
+}
+.pingimg{
+    position: absolute;
+     top: -50px;
+     left: 83px;
+}
+.btn2{
+    left: 20px;
+    bottom: -60px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    position: absolute;
+    text-align: center;
+    font-weight: 400;
+font-size: 11px;
+color: transparent;
+background: transparent;
+padding: 0px;
+}
+.btn3{
+    border: none;
+    position: absolute;
+    text-align: center;
+    font-weight: 400;
+font-size: 11px;
+color: transparent;
+background: transparent;
+top: 410px;
+left: 150px;
+}
+p{
+    color: transparent;
+}
+.imgs{
+    display: flex;
+    margin-top: 220px;
+    margin-left: 200px;
+}
+.bigtext{
+    margin-top: 128px;
+    text-align: center;
+    font-weight: 600;
+font-size: 64px;
+color: #2F2F2F;
+}
+.textALL{
+    text-align: center;
+    font-weight: 400;
+font-size: 17px;
+color: #2F2F2F;
+}

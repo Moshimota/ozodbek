@@ -103,7 +103,7 @@ background: transparent;
 top: 410px;
 left: 150px;
 }
-p{
+.btn3 p{
     color: transparent;
 }
 .imgs{
@@ -123,4 +123,271 @@ color: #2F2F2F;
     font-weight: 400;
 font-size: 17px;
 color: #2F2F2F;
+}
+.btnyu{
+    font-weight: 400;
+font-size: 22px;
+text-align: center;
+color: #FFFFFF;
+background: #2F2F2F;
+border: 1px solid #2F2F2F;
+border-radius: 30px;
+padding: 6px 65px;
+margin-top: 72px;
+}
+.btnyo{
+    font-weight: 400;
+font-size: 22px;
+text-align: center;
+color: #2F2F2F;
+border: 1px solid #2F2F2F;
+border-radius: 30px;
+padding: 6px 65px;
+background: transparent;
+}
+.beshket{
+    margin-top: 64px;
+}
+.qizil{
+    margin-top: 64px;
+    font-weight: 400;
+font-size: 16px;
+color: #FF7F96;
+
+}
+.maydaroq{
+    font-weight: 600;
+font-size: 36px;
+color: #2F2F2F;
+margin: 0;
+
+}
+.maydaroqgina{
+    font-weight: 600;
+font-size: 35px;
+color: #2F2F2F;
+margin: 0;
+
+}
+.mikro{
+    padding-top: 21px;
+    font-weight: 400;
+font-size: 20px;
+color: #2F2F2F;
+
+}
+.saitama{
+margin-top: 146px;
+}
+.work{
+    margin-top: 203px;
+    font-weight: 600;
+font-size: 35px;
+text-transform: uppercase;
+color: #2F2F2F;
+margin-left: 100px;
+
+}
+.um{
+    font-weight: 600;
+font-size: 48px;
+color: #2F2F2F;
+margin-left: 100px;
+
+}
+.hato{
+    margin-top: 38px;
+    font-weight: 600;
+font-size: 15px;
+color: #2F2F2F;
+margin-left: 100px;
+}
+.about{
+    padding: 10px 30px;
+    background: #2F2F2F;
+border-radius: 0px;
+font-weight: 700;
+font-size: 15px;
+text-align: center;
+color: #FFFFFF;
+border: none;
+margin-left: 400px;
+margin-top: 12px;
+}
+.yana1{
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+background: #82CBAC;
+border-radius: 30px;
+padding: 9px 20px;
+margin-top: 128px;
+border: none;
+}
+.mo{
+    margin-top: 5px;
+    font-weight: 700;
+font-size: 35px;
+color: #2F2F2F;
+}
+.loren{
+    margin-top: 13px;
+    font-weight: 400;
+font-size: 18px;
+color: #2F2F2F;
+}
+.yana2{
+    
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+background: #FF7F96;
+border-radius: 30px;
+padding: 9px 20px;
+margin-top: 22px;
+border: none;
+}
+.yana3{
+    
+    font-weight: 400;
+font-size: 16px;
+color: #FFFFFF;
+background: #EAD71B;
+border-radius: 30px;
+padding: 9px 20px;
+margin-top: 22px;
+border: none;
+}
+.anos{
+    margin-top: 84px;
+}
+.sc56{
+    background: #82CBAC;
+    margin-top: 142px;
+}
+.fono{
+    font-weight: 600;
+font-size: 50px;
+color: #2F2F2F;
+margin-top: 51px;
+}
+.cosa{
+    position: relative;
+    padding-bottom: 170px;
+}
+.boshlar{
+    position: absolute;
+    right: -115px;
+    top: -120px;
+}
+.baby{
+    font-weight: 400;
+font-size: 63px;
+text-align: center;
+color: #2F2F2F;
+margin-top: 100px;
+
+}
+.card{
+    margin-top: 73px;
+    border: none;
+}
+.yov{
+    font-weight: 700;
+font-size: 26px;
+color: #2F2F2F;
+padding-top: 29px;
+padding-bottom: 37px;
+padding-left: 50px;
+}
+.btn83{
+    font-weight: 700;
+font-size: 14px;
+text-align: center;
+color: #FFFFFF;
+padding-top: 12px;
+padding-bottom: 16px;
+padding-left: 40px;
+padding-right: 40px;
+background: #2F2F2F;
+border-radius: 0px;
+margin-top: 64px;
+border: none;
+}
+.nft{
+    text-align: center;
+    font-weight: 600;
+font-size: 64px;
+color: #2F2F2F;
+margin-top: 110px;
+margin-right: 20px;
+}
+.card2{
+    margin-top: 25px;
+    position: relative;
+}
+.ayiq{
+    font-weight: 400;
+font-size: 16px;
+color: #2F2F2F;
+}
+.dip{
+    display: flex;
+    margin-top: 27px;
+    margin-left: 20px;
+}
+.glaz{
+    padding-top: 2.57px;
+    padding-bottom: 14.07px;
+    padding-left: 11.57px;
+    padding-right:8.23px;
+    border: none;
+    margin-left: 60px;
+background: transparent;
+top: 10px;
+}
+.raqam{
+    font-weight: 700;
+font-size: 18px;
+color: #2F2F2F;
+margin-left: 8px;
+
+
+}
+.quluf{
+    background: #FF7F96;
+border-radius: 30px;
+padding: 11px 15px;
+border: none;
+position: absolute;
+left: 263px;
+top: 230px;
+}
+.sec48{
+    margin-top: 55px;
+}
+.btn47{
+    margin-top: 73px;
+    font-weight: 400;
+font-size: 22px;
+color: #2F2F2F;
+border: none;
+background: transparent;
+
+}
+.chiq{
+    padding-left: 355px;
+}
+.chiq2{
+    padding-left: 640px;
+}
+.chiq3{
+    padding-left: 490px;
+
+}
+.chiq4{
+    padding-left: 525px;
+}
+.chiq5{
+    padding-left: 400px;
 }
